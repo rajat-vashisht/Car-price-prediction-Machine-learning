@@ -37,7 +37,7 @@ clyent==1.2.2
 colorama==0.4.3
 colorlover==0.3.0
 comtypes==1.1.7
-conda==4.8.4
+conda==4.8.5
 conda-build==3.18.11
 conda-package-handling==1.6.0
 conda-verify==3.4.2
@@ -61,7 +61,7 @@ flake8==3.7.9
 Flask==1.1.1
 fsspec==0.6.2
 future==0.18.2
-gast==0.3.3
+gast==0.4.0
 gevent==1.4.0
 glob2==0.7
 google-auth==1.20.1
@@ -98,7 +98,7 @@ jupyter-core==4.6.1
 jupyterlab==1.2.6
 jupyterlab-server==1.0.6
 Keras==2.4.3
-Keras-Applications==1.0.2
+Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.2
 keyring==21.1.0
 kiwisolver==1.1.0
